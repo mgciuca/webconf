@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<db>
+    <itemAlgebra>
+        <Nume> Cristian ANGHEL</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </itemAlgebra>
+    <itemAlgebra>
+        <Nume>Nicolae Ciprian BONCIOCAT</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </itemAlgebra>
+    <itemAlgebra>
+        <Nume>Adrian DIACONU</Nume>
+        <Institutie>University of Minnesota USA &amp; IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </itemAlgebra>
+    <itemAlgebra>
+        <Nume>Ahmet DOKUYUCU</Nume>
+        <Institutie>Lumina University, Romania &amp; Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </itemAlgebra>
+    <itemAlgebra>
+        <Nume>Radu GABA</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </itemAlgebra>
+    <itemAlgebra>
+        <Nume>Lukas KATTH&#196;N</Nume>
+        <Institutie>Universitat Osnabr&#252;ck</Institutie>
+        <Tara>Germany</Tara>
+    </itemAlgebra>
+    <itemAlgebra>
+        <Nume>Laurentiu MAXIM</Nume>
+        <Institutie>University of Wisconsin-Madison</Institutie>
+        <Tara>USA</Tara>
+    </itemAlgebra>
+    <itemAlgebra>
+        <Nume>Julio Jos&#233; MOYANO-FERN&#193;NDEZ</Nume>
+        <Institutie>Universitat Osnabr&#252;ck</Institutie>
+        <Tara>Germany</Tara>
+    </itemAlgebra>
+    <itemAlgebra>
+        <Nume>Alexandru POPA</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </itemAlgebra>
+    <itemAlgebra>
+        <Nume>Vicentiu PASOL</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </itemAlgebra>
+    <itemAlgebra>
+        <Nume>Joel ROUYER</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </itemAlgebra>
+    <itemAlgebra>
+        <Nume>Dumitru STAMATE</Nume>
+        <Institutie>University of Bucharest</Institutie>
+        <Tara>Romania</Tara>
+    </itemAlgebra>
+    <itemAlgebra>
+        <Nume>Costin VILCU</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </itemAlgebra>
+    <itemAnaliza>
+        <Nume>Diana ALEXANDRESCU</Nume>
+        <Institutie>University of Craiova</Institutie>
+        <Tara>Romania</Tara>
+    </itemAnaliza>
+    <itemAnaliza>
+        <Nume>Gabriela BADEA</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </itemAnaliza>
+    <itemAnaliza>
+        <Nume>Iulian CIMPEAN</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </itemAnaliza>
+    <itemAnaliza>
+        <Nume>Cristian CAZACU</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </itemAnaliza>
+    <itemAnaliza>
+        <Nume>Nicusor COSTEA</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </itemAnaliza>
+    <itemAnaliza>
+        <Nume>Maria FARCASEANU</Nume>
+        <Institutie>University of Craiova</Institutie>
+        <Tara>Romania</Tara>
+    </itemAnaliza>
+    <itemAnaliza>
+        <Nume>Liviu IGNAT</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </itemAnaliza>
+    <itemAnaliza>
+        <Nume>Florin ISAIA</Nume>
+        <Institutie>Transilvania University of Brasov</Institutie>
+        <Tara>Romania</Tara>
+    </itemAnaliza>
+    <itemAnaliza>
+        <Nume>Mihai MIHAILESCU</Nume>
+        <Institutie>University of Craiova &amp; IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </itemAnaliza>
+    <itemAnaliza>
+        <Nume>Radu-Bogdan MUNTEANU</Nume>
+        <Institutie>University of Bucharest</Institutie>
+        <Tara>Romania</Tara>
+    </itemAnaliza>
+    <itemAnaliza>
+        <Nume>Denisa STANCU-DUMITRU</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </itemAnaliza>
+</db>

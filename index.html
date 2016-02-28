@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<!-- define angular app -->
+<html ng-app="scotchApp">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <!-- SCROLLS -->
+    <link rel="stylesheet" href="assets/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="assets/lightbox2/dist/css/lightbox.min.css" />
+    <link rel="stylesheet" href="assets/css/tema.css" />
+    <!-- SPELLS -->
+
+</head>
+<!-- define angular controller -->
+
+<body ng-controller="mainController">
+    <section class="col-md-10 col-md-offset-1 col-sm-12 pp">
+        <div class="col-md-10 col-md-offset-1">
+          <article class="jumbotron text-center pp">
+            <h1>Workshop for Young Researchers in Mathematics</h1>
+        </article>
+        </div>
+        
+        <div class="col-md-12" id="main">
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="/">6th edition</a>
+                    </div>
+                    <div id="navbar" class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="#/"><i class="fa fa-home"></i> Home</a></li>
+                            <li><a href="#General-Info"><i class="fa fa-info"></i> General Info</a></li>
+                            <li><a href="#Organizers"><i class="fa fa-cogs"></i> Organizers</a></li>
+                            <li><a href="#Speakers"><i class="fa fa-male"></i> Speakers</a></li>
+                            <li><a href="#Participants"><i class="fa fa-group"></i> Participants</a></li>
+                            <li><a href="#Program"><i class="fa fa-book"></i> Program</a></li>
+                            <li><a href="#Accomodation"><i class="fa fa-h-square"></i> Accomodation</a></li>
+                            <li><a href="#Photo-Gallery"><i class="fa fa-picture-o"></i> Photo Gallery</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <!-- angular templating -->
+            <!-- this is where content will be injected -->
+            <!--div class="hidden-lg hidden-sm hidden-md">XS</div>
+            <div class="hidden-xs hidden-lg hidden-md">SM</div>
+            <div class="hidden-xs hidden-sm hidden-lg">MD</div>
+            <div class="hidden-xs hidden-sm hidden-md">LG</div-->
+            <div ng-view></div>
+        </div>
+    </section>
+    <footer class="col-md-12 text-center">
+        <p>Last update: 26 februarie 2016. <br class="break"/>Webmaster: Marian-George Ciuc&#259;</p>
+    </footer>
+    <script src="assets/jquery/jquery.min.js"></script>
+    <script src="assets/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="assets/angular/angular.min.js"></script>
+    <script src="assets/angular-route/angular-route.min.js"></script>
+    <script src="assets/lightbox2/dist/js/lightbox.min.js"></script>
+    <script src="assets/js/script.js"></script>
+</body>
+
+</html>

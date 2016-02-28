@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<db>
+    <item>
+        <Nume>Diana ALEXANDRESCU</Nume>
+        <Institutie>University of Craiova</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Florin AMBRO</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Cristian ANGHEL</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Cristina Ana-Maria ANGHEL</Nume>
+        <Institutie>University of Bucharest</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Gabriela BADEA</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Alexandra BAHACENCU</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Alexandru BOBE</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Nicolae Ciprian BONCIOCAT</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Ioana BOROS</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Andrada BUZATU</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Cristian CAZACU</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume><![CDATA[Marian-George CIUCĂ]]></Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Madalina CIUCIOIU</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Iulian CIMPEAN</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Adrian CLINGHER</Nume>
+        <Institutie>University of Missouri - St. Louis</Institutie>
+        <Tara>USA</Tara>
+    </item>
+    <item>
+        <Nume>Nicusor COSTEA</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Constantin COSTARA</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Florentina CRACIUN</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Adrian DIACONU</Nume>
+        <Institutie>University of Minnesota USA &amp; IMAR, Romania</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Ahmet DOKUYUCU</Nume>
+        <Institutie>Lumina University, Romania &amp; Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Sara ELABED</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Maria FARCASEANU</Nume>
+        <Institutie>University of Craiova</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Gena FLOREA</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Radu GABA</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Madalina GHENEA</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Ionela GOLEA</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Denis IBADULA</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Bogdan ICHIM</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Liviu IGNAT</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Tatiana Ionica IGNAT</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Dorina ILICENCO</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Florin ISAIA</Nume>
+        <Institutie>Transilvania University of Brasov</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Lukas KATTH&#196;N</Nume>
+        <Institutie>Universitat Osnabr&#252;ck</Institutie>
+        <Tara>Germany</Tara>
+    </item>
+    <item>
+        <Nume>Anca-Daniela M&#258;CINIC</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Laurentiu MAXIM</Nume>
+        <Institutie>University of Wisconsin-Madison</Institutie>
+        <Tara>USA</Tara>
+    </item>
+    <item>
+        <Nume>Mihai MIHAILESCU</Nume>
+        <Institutie>University of Craiova &amp; IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Andreea MIRON-BALICA</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Julio Jos&#233; MOYANO-FERN&#193;NDEZ</Nume>
+        <Institutie>Universitat Osnabr&#252;ck</Institutie>
+        <Tara>Germany</Tara>
+    </item>
+    <item>
+        <Nume>Sergiu MOROIANU</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Radu-Bogdan MUNTEANU</Nume>
+        <Institutie>University of Bucharest</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Hop NGUYEN</Nume>
+        <Institutie>University of Genoa</Institutie>
+        <Tara>Italy</Tara>
+    </item>
+    <item>
+        <Nume>Cristina NICOLA</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Andreea NOVACESCU</Nume>
+        <Institutie>University Politehnica of Bucharest</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Anda OLTEANU</Nume>
+        <Institutie>University Politehnica of Bucharest &amp; IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Oana OLTEANU</Nume>
+        <Institutie>University Politehnica of Bucharest</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Alexandra OTIMAN</Nume>
+        <Institutie>University of Bucharest</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Vicentiu PASOL</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Alexandru POPA</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Joel ROUYER</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Andreea SCARLAT</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Daniela SEULEANU</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Dumitru STAMATE</Nume>
+        <Institutie>University of Bucharest</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Miron STANCIU</Nume>
+        <Institutie>University of Bucharest</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Denisa STANCU-DUMITRU</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Anca VARVESCU</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+    <item>
+        <Nume>Costin VILCU</Nume>
+        <Institutie>IMAR</Institutie>
+        <Tara>Romania</Tara>
+    </item>
+</db>

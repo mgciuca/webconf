@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<db>
+    <item>
+        <Nume>Adrian CLINGHER</Nume>
+        <Institutie>University of Missouri - St. Louis</Institutie>
+        <Tara>USA</Tara>
+        <Email>clinghera@umsl.edu</Email>
+    </item>
+    <item>
+        <Nume>Constantin COSTARA</Nume>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Adresa>124 Mamaia Bd., 900527, Constanta</Adresa>
+        <Tara>Romania</Tara>
+        <Email>cdcostara@univ-ovidius.ro</Email>
+    </item>
+    <item>
+        <Nume>Cristian ENACHE</Nume>
+        <Contact>1</Contact>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+        <Adresa>124 Mamaia Bd., 900527, Constanta</Adresa>
+        <Email>cenache@univ-ovidius.ro</Email>
+    </item>
+    <item>
+        <Nume>Denis IBADULA</Nume>
+        <Contact>1</Contact>
+        <Institutie>Ovidius University of Constanta</Institutie>
+        <Tara>Romania</Tara>
+        <Adresa>124 Mamaia Bd., 900527, Constanta</Adresa>
+        <Email>denis.ibadula@univ-ovidius.ro</Email>
+    </item>
+    <item>
+        <Nume><![CDATA[Anca-Daniela MĂCINIC]]></Nume>
+        <Institutie>Institute of Mathematics "Simion Stoilow" of the Romanian Academy</Institutie>
+        <Tara>Romania</Tara>
+        <Adresa>P.O. Box 1-764, RO-70700, Bucharest</Adresa>
+        <Email>anca.macinic@imar.ro</Email>
+    </item>
+</db>
